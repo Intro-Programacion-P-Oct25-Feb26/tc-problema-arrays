@@ -1,3 +1,8 @@
+### Agregar nombre de integrantes del grupo
+1. ?
+
+2. ?
+
 ## EJERCICIO – USO DE ARRAYLIST
 ### PROBLEMA
 > Una facultad universitaria gestiona la evaluación de 8 proyectos académicos. Cada proyecto es evaluado mediante 7 criterios definidos por un comité académico. Además, cada proyecto tiene un responsable y pertenece a una área académica. Para facilitar futuras ampliaciones (más proyectos), se ha decidido utilizar estructuras dinámicas (ArrayList). Los CRITERIOS DE EVALUACIÓN son:
